@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="tiny_size">4dp</dimen>
+  <dimen name="small_size">8dp</dimen>
+  <dimen name="regular_size">16dp</dimen>
+  <dimen name="large_size">32dp</dimen>
+  <dimen name="card_size">300dp</dimen>
+  <dimen name="overlapping_area">300dp</dimen>
+  <dimen name="card_stack_size">350dp</dimen>
+  <dimen name="regular_text">16sp</dimen>
+  <dimen name="large_text">24sp</dimen>
+  <dimen name="avatar_size">100dp</dimen>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="Caption">
+    <item name="android:textSize">@dimen/large_text</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@color/black</item>
+  </style>
+
+  <style name="Caption.Red">
+    <item name="android:textColor">@color/red</item>
+  </style>
+
+  <style name="Caption.Green">
+    <item name="android:textColor">@color/green</item>
+  </style>
+</resources>

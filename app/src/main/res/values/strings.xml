@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">TestApplication</string>
+  <string name="notification_message">Notification message</string>
+  <string name="notification_title">notification title</string>
+  <string name="ticker_text">ticker text</string>
+  <string name="like">Like</string>
+  <string name="nope">Nope</string>
+  <string name="go">GO!</string>
+  <string name="type_search">type search word and click go</string>
+</resources>
